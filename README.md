@@ -1,5 +1,7 @@
 # CYCLIC REDUNDENCY CHECK
 
+#### Author: [Ravin Kumar](https://mr-ravin.github..io)
+
 ### Computer Networking
 
 This includes the source code for implementation of CRC in networking using C programming language.
@@ -19,7 +21,3 @@ The device may take corrective action, such as rereading the block or requesting
 ### For more informations
 
 Visit the following wikipedia [page](https://en.wikipedia.org/wiki/Cyclic_redundancy_check).
-
-
-#### Note: The Cyclic Redundency Check codes present inside this repository can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
-#### Email_id: mr.ravin_kumar@hotmail.com .
