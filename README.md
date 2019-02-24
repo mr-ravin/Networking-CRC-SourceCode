@@ -1,6 +1,6 @@
 # CYCLIC REDUNDENCY CHECK
 
-#### Author: [Ravin Kumar](https://mr-ravin.github..io)
+#### Code Developer: [Ravin Kumar](https://mr-ravin.github..io)
 
 ### Computer Networking
 
