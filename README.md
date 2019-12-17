@@ -21,3 +21,5 @@ The device may take corrective action, such as rereading the block or requesting
 ### For more informations
 
 Visit the following wikipedia [page](https://en.wikipedia.org/wiki/Cyclic_redundancy_check).
+
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
